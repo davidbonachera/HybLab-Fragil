@@ -2064,6 +2064,7 @@ z-index: 3;
 }
 div#testbg{
 	border-top: 1px solid #b3b3b3;
+	border-bottom: 1px solid #b3b3b3;
 	position: relative;
 	bottom: 0;
 	height: 160px;
@@ -2079,7 +2080,7 @@ div#testbg{
 }
 #bandeauBlanc img {
 	height: 45px;
-	padding: 0 4px;
+	padding: 0 3px;
 	margin: 15px 0;
 	opacity: 0.4;
 }
